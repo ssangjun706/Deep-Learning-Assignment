@@ -1,20 +1,10 @@
-# COSE474
-Deep Learning Assignments
+# COSE474: Deep Learning
 
-## HW1
-- Implementing MSE with Numpy
+## Assignments
 
-## HW2
-- Simple linear classification with cross entropy loss
-
-## HW3
-- Neural network training: XOR
-
-## HW4
-- Implementing Convolution layer
-
-## HW5
-- MNIST image classification
-
-## HW6
-- IMDB sentiment analysis
+- HW1: Implementing MSE with Numpy
+- HW2: Simple Linear Classification with Cross Entropy Loss
+- HW3: Neural Network Training for XOR Problem
+- HW4: Implementing Convolution Layer
+- HW5: MNIST Image Classification
+- HW6: IMDB Sentiment Analysis
